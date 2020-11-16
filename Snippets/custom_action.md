@@ -5,12 +5,12 @@
 Create a action folder inside session4_action folder
 
 ```sh
-mkdir -p ~/ros_workspace/src/session4_action/action
+mkdir -p ~/ros_workshop/src/session4_action/action
 ```
 
 Open the folder 
 ```sh
-cd ~/ros_workspace/src/session4_action/action
+cd ~/ros_workshop/src/session4_action/action
 ```
 
 Create a .action file with desired name. (we will select custom.action as an example)

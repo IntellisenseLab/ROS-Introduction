@@ -43,7 +43,7 @@ target_link_libraries(subscriber ${catkin_LIBRARIES})
 Go to root of the workspace
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

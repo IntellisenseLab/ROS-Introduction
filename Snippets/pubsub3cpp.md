@@ -46,7 +46,7 @@ add_dependencies(subscriber session3_pubsub_generate_messages_cpp)
 Go to root of the workspace
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

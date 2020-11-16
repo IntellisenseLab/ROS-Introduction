@@ -20,7 +20,7 @@ add_dependencies(client session3_cliserver_generate_messages_cpp)
 Go to root of the workspace
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

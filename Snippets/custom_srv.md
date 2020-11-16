@@ -5,12 +5,12 @@
 Create a srv folder inside session3_cliserver folder
 
 ```sh
-mkdir -p ~/ros_workspace/src/session3_cliserver/srv
+mkdir -p ~/ros_workshop/src/session3_cliserver/srv
 ```
 
 Open the folder 
 ```sh
-cd ~/ros_workspace/src/session3_cliserver/srv
+cd ~/ros_workshop/src/session3_cliserver/srv
 ```
 
 Create a .srv file with desired name. (we will select custom.srv as an example)
@@ -77,7 +77,7 @@ generate_messages(
 Move to the workspace root and rebuild
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

@@ -6,7 +6,7 @@
 Create a package inside src folder
 
 ```sh
-cd ~/ros_workspace/src
+cd ~/ros_workshop/src
 ```
 ```sh
 catkin_create_pkg session3_cliserver std_msgs rospy roscpp

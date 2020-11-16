@@ -5,12 +5,12 @@
 Create a msg folder inside session3_pubsub folder
 
 ```sh
-mkdir -p ~/ros_workspace/src/session3_pubsub/msg
+mkdir -p ~/ros_workshop/src/session3_pubsub/msg
 ```
 
 Open the folder 
 ```sh
-cd ~/ros_workspace/src/session3_pubsub/msg
+cd ~/ros_workshop/src/session3_pubsub/msg
 ```
 
 Create a .msg file with desired name. (we will select custom.msg as an example)
@@ -76,7 +76,7 @@ generate_messages(
 Move to the root of workspace and rebuild
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

@@ -39,7 +39,7 @@ catkin_install_python(PROGRAMS scripts/client.py scripts/server.py
 Go to root of the workspace
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build

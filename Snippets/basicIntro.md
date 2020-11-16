@@ -10,13 +10,13 @@ mkdir -p ~/<workspace_name>/src
 As an example (we will be using this workspace from here on),
 
 ```sh
-mkdir -p ~/ros_workspace/src
+mkdir -p ~/ros_workshop/src
 ```
 
 Enter the workspace and build it.
 
 ```sh
-cd ~/ros_workspace/
+cd ~/ros_workshop/
 ```
 ```sh
 catkin build
@@ -30,7 +30,7 @@ catkin build
 To create a package
 
 ```sh
-cd ~/ros_workspace/src
+cd ~/ros_workshop/src
 ```
 ```sh
 catkin_create_pkg <package_name> [depend1] [depend2] [depend3]

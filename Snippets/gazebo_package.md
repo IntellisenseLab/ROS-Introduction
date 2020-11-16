@@ -6,7 +6,7 @@
 Clone the sample package inside src folder
 
 ```sh
-cd ~/ros_workspace/src
+cd ~/ros_workshop/src
 ```
 ```sh
 git clone https://github.com/husarion/rosbot_description.git
@@ -14,7 +14,7 @@ git clone https://github.com/husarion/rosbot_description.git
 
 Go to the root and install dependencies
 ```sh
-cd ~/ros_workspace
+cd ~/ros_workshop
 ```
 
 ```sh
