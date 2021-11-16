@@ -35,7 +35,7 @@ source ~/.bashrc
 Dependencies
 
 ```sh
-sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential
+sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
 ```
 
 ```sh
@@ -48,7 +48,7 @@ rosdep update
 
 To setup catkin tools
 ```sh
-sudo apt-get install python-catkin-tools
+sudo apt-get install python3-catkin-tools
 ```
 
 
