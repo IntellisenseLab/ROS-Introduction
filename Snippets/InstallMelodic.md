@@ -51,4 +51,4 @@ To setup catkin tools
 sudo apt-get install python-catkin-tools
 ```
 
-Setup VS code as text editor
+Setup VS code as text editor https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
