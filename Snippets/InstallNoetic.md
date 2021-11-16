@@ -53,3 +53,4 @@ sudo apt-get install python3-catkin-tools
 
 
 Setup VS code as text editor
+https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
